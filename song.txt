@@ -9,8 +9,11 @@ sword and spear
 wall of shields
 standing strong
 __________________________
+<<<<<<< HEAD
 vsdjnv
 
 sword and spear
 wall of shields
 standing strong
+=======
+>>>>>>> parent of 8fbf727 (one line)
